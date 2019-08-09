@@ -1,8 +1,8 @@
 # Android MPV Kotlin
 
 Testes unitarios:
-- 
-- 
+- Presenter
+- Manager
 
 Bibliotecas utilizadas:
 - Mockito: https://github.com/mockito/mockito
