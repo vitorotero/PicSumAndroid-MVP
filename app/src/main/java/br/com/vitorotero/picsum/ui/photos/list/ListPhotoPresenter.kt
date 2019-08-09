@@ -16,7 +16,7 @@ class ListPhotoPresenter(private val photoManager: PhotoManager, view: ListPhoto
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(
                     { photos -> view?.setList(photos) },
-                    { t -> t.printStackTrace() })
+                    { })
         )
     }
 

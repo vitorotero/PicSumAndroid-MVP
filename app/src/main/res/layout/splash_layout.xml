@@ -10,7 +10,7 @@
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnGo"
         android:layout_width="@dimen/btn_go_size"
-        android:layout_height="@dimen/btnGoSize"
+        android:layout_height="@dimen/btn_go_size"
         android:text="@string/btn_go_text"
         android:textColor="@android:color/white"
         android:theme="@style/ButtonDefaultTheme"
