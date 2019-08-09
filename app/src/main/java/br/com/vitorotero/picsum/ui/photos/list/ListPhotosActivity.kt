@@ -4,7 +4,7 @@ import android.app.ActivityOptions
 import android.util.Pair
 import android.view.View
 import android.view.ViewTreeObserver
-import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import br.com.vitorotero.picsum.R
 import br.com.vitorotero.picsum.shared.api.Api
 import br.com.vitorotero.picsum.shared.api.ApiPhoto
@@ -84,7 +84,6 @@ class ListPhotosActivity : BaseActivity(), ListPhotoContract.View, PhotoAdapterL
 
     private fun initRecyclerView() {
         rvPhotos.adapter = adapter
-        rvPhotos.layoutManager = LinearLayoutManager(this)
     }
 
     companion object {
