@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PicSum</string>
+
+    <!-- Splash Activity -->
+    <string name="btn_go_text">GO!</string>
+    <!-- Splash Activity -->
+
+    <!-- Detail Photo Activity -->
+    <string name="detail_photo_activity_title">Detalhes</string>
+    <string name="btn_page_author_text">Acessar a página do autor</string>
+    <string name="btn_page_photo_text">Acessar o post da foto</string>
+    <!-- Detail Photo Activity -->
+
+    <!-- List Photo Activity -->
+    <string name="list_photos_activity_title">Fotos</string>
+    <!-- List Photo Activity -->
+
+</resources>

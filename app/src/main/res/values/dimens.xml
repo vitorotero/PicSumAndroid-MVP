@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="button_default_radius">10dp</dimen>
+
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+
+    <!-- Splash Activity -->
+    <dimen name="btn_go_size">70dp</dimen>
+    <!-- Splash Activity -->
+
+    <!-- Photo Item Activity -->
+    <dimen name="photo_item_description_min_height">60dp</dimen>
+    <!-- Photo Item Activity -->
+
+    <!-- Detail Photo Activity -->
+    <dimen name="iv_photo_height">250dp</dimen>
+    <dimen name="cl_content_height">300dp</dimen>
+    <!-- Detail Photo Activity -->
+
+</resources>
